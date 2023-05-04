@@ -1,5 +1,8 @@
 package com.example.book;
 
+/**
+ *  хранения информации о контактах
+ */
 public class Subscriber {
     private String title;
     private String firstName;
